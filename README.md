@@ -1,6 +1,6 @@
-# Python Proyect
+# Pytorch Neural Training
 
-To install dependencies:
+### 1) Install dependencies:
 
 ```python
 pip install -r "requirements.txt"
